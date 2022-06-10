@@ -1,4 +1,4 @@
-# reactidd
+# reactidd - splines
 
 This repository supports epidemiological and disease-dynamic analyses of data from the REal Time Assessment of Community Transmission (REACT) study. It includes both code and data. 
 
